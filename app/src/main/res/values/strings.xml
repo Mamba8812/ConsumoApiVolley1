@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ConsumoApiVolley</string>
+    <string name="tvTitulo">Listado de todos (API JASONPlaceholder)</string>
+</resources>
